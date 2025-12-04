@@ -75,6 +75,8 @@
 - Buổi 12 (02/12): Lớp và đối tượng (tt), tính chất đóng gói trong OOP.
     - Bài 2.2: Lớp và đối tượng (tt).
     - Bài 2.3: Tính chất đóng gói trong OOP.
+- Buổi 13 (04/12): Ôn tập.
+    - Làm bài tập 2.1 trên Notion.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
