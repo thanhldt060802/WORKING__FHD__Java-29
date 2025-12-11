@@ -80,7 +80,6 @@
 - Buổi 14 (09/12): 4 tính chất trong OOP (tt).
     - Bài 2.5: Tính chất kế thừa trong OOP.
 - Buổi 15 (11/12): Mảng động, 4 tính chất trong OOP (tt).
-    - Bài 2.6: Phương thức toString của lớp Object.
     - Bài 2.7: Thao tác với cấu trúc danh sách mảng ArrayList.
     - Bài 2.8: Tính chất đa hình trong OOP.
 
