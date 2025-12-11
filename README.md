@@ -44,41 +44,45 @@
 - Buổi 01 (23/10): Làm quen với Java.
     - Bài 1.2: Lệnh in ra màn hình.
     - Bài 1.3: Kiểu dữ liệu và biến.
-- Buổi 02 (28/10): Ép kiểu, số học và toán tử.
+- Buổi 02 (28/10): Ép kiểu, Số học và toán tử.
     - Bài 1.4: Ép kiểu dữ liệu.
     - Bài 1.5: Toán tử.
-- Buổi 03 (30/10): Số học và toán tử (tt), nhập liệu.
+- Buổi 03 (30/10): Số học và toán tử (tt), Nhập liệu.
     - Bài 1.5: Toán tử (tt).
     - Bài 1.6: Lệnh nhập liệu.
 - Buổi 04 (04/11): Câu điều kiện và vòng lặp.
     - Bài 1.7: Câu điều kiện, vòng lặp và lệnh break, continue.
     - Bài 1.8: Phương pháp đánh nhãn.
-- Buổi 05 (06/11): Thao tác chuỗi và mảng.
+- Buổi 05 (06/11): Chuỗi và mảng.
     - Bài 1.9: Thao tác với chuỗi.
     - Bài 1.10: Thao tác với cấu trúc mảng tĩnh.
-- Buổi 06 (11/11): Xây dựng phương thức.
+- Buổi 06 (11/11): Phương thức.
     - Bài 1.11: Xây dựng phương thức.
-- Buổi 07 (13/11): Xây dựng phương thức (tt).
+- Buổi 07 (13/11): Phương thức (tt).
     - Bài 1.11: Xây dựng phương thức (tt).
     - Bài 1.12: Ghi chồng phương thức.
     - Bài 1.13: Đa tham số trong phương thức.
 - Buổi 08 (18/11): Ôn tập.
-    - Ôn tập lại vài kiến thức khó trong học phần Basic.
-    - Làm bài tập 2.C25 trên Web FHD.
-- Buổi 10 (25/11): Chủ đề mở rộng - Đệ quy.
+    - Ôn tập lại vài kiến thức khó trong chương Cơ bản.
+    - Bài tập 2.C25 trên Web FHD.
+- Buổi 10 (25/11): Phương pháp đệ quy.
     - Bài 1.14: Đệ quy.
 
 ## 4.2. Hướng đối tượng ([LINK](https://www.notion.so/2-Object-Oriented-Programming-171e3c27ef378101b8e2f70029abf2e0))
 
-- Buổi 11 (28/11): Lớp và đối tượng.
+- Buổi 11 (28/11): Làm quen với OOP.
     - Bài 2.2: Lớp và đối tượng.
-- Buổi 12 (02/12): Lớp và đối tượng (tt), tính chất đóng gói trong OOP.
+- Buổi 12 (02/12): Làm quen với OOP (tt), 4 tính chất trong OOP.
     - Bài 2.2: Lớp và đối tượng (tt).
     - Bài 2.3: Tính chất đóng gói trong OOP.
 - Buổi 13 (04/12): Ôn tập.
-    - Làm bài tập 2.1 trên Notion.
-- Buổi 14 (09/12): Tính chất kế thừa trong OOP.
+    - Bài tập 1 trên Notion.
+- Buổi 14 (09/12): 4 tính chất trong OOP (tt).
     - Bài 2.5: Tính chất kế thừa trong OOP.
+- Buổi 15 (11/12): Mảng động, 4 tính chất trong OOP (tt).
+    - Bài 2.6: Phương thức toString của lớp Object.
+    - Bài 2.7: Thao tác với cấu trúc danh sách mảng ArrayList.
+    - Bài 2.8: Tính chất đa hình trong OOP.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
