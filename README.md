@@ -44,11 +44,11 @@
 - Buổi 01 (23/10): Làm quen với Java.
     - Bài 1.2: Lệnh in ra màn hình.
     - Bài 1.3: Kiểu dữ liệu và biến.
-- Buổi 02 (28/10): Ép kiểu, Số học và toán tử.
+- Buổi 02 (28/10): Làm quen với Java (tt).
     - Bài 1.4: Ép kiểu dữ liệu.
-    - Bài 1.5: Toán tử.
-- Buổi 03 (30/10): Số học và toán tử (tt), Nhập liệu.
-    - Bài 1.5: Toán tử (tt).
+    - Bài 1.5: Số học và toán tử.
+- Buổi 03 (30/10): Làm quen với Java (tt).
+    - Bài 1.5: Số học và toán tử (tt).
     - Bài 1.6: Lệnh nhập liệu.
 - Buổi 04 (04/11): Câu điều kiện và vòng lặp.
     - Bài 1.7: Câu điều kiện, vòng lặp và lệnh break, continue.
