@@ -64,7 +64,7 @@
     - Bài 1.13: Đa tham số trong phương thức.
 - Buổi 08 (18/11): Ôn tập.
     - Ôn tập lại vài kiến thức khó trong chương Cơ bản.
-    - Bài tập 2.C25 [Web FHD]: Dãy con tối thiểu có tổng ≥ \`target\` (mảng số dương).
+    - Bài tập 2.C25 (Web FHD): Dãy con tối thiểu có tổng ≥ \`target\` (mảng số dương).
 - Buổi 10 (25/11): Phương pháp đệ quy.
     - Bài 1.14: Đệ quy.
 
@@ -76,7 +76,7 @@
     - Bài 2.2: Lớp và đối tượng (tt).
     - Bài 2.3: Tính chất đóng gói trong OOP.
 - Buổi 13 (04/12): Ôn tập.
-    - Bài tập 1 [Web Notion]: Toán tam giác.
+    - Bài tập 01 (Web Notion): Toán tam giác.
 - Buổi 14 (09/12): 4 tính chất trong OOP (tt).
     - Bài 2.5: Tính chất kế thừa trong OOP.
 - Buổi 15 (11/12): Mảng động, 4 tính chất trong OOP (tt).
@@ -84,6 +84,9 @@
     - Bài 2.8: Tính chất đa hình trong OOP.
 - Buổi 16 (16/12): 4 tính chất trong OOP (tt).
     - Bài 2.8: Tính chất đa hình trong OOP (tt).
+- Buổi 17 (18/12): Ôn tập.
+    - Bài tập 08 (Web Notion): Xây dựng mô hình lớp quản lý nhân viên cho công ty.
+    - Bài tập 10 (Web Notion): Quản lý nhân viên cho nhà hàng.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
